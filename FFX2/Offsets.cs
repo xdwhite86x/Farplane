@@ -27,6 +27,9 @@ namespace Farplane.FFX2
         // FFX-2.exe+20E763 - B8 3F420F00           - mov eax,000F423F { 999999 }
         // FFX-2.exe+20E768 - EB 16                 - jmp FFX-2.exe+20E780
 
+        
+        
+        
 
 }
 

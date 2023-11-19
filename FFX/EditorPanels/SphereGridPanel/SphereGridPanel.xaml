@@ -12,6 +12,9 @@
                 <TabItem Header="Nodes" />
             </TabControl>
             <ContentControl Name="SphereGridEditor" />
+            <Button Click="ButtonBase_OnClick">Set All Nodes</Button>
+            <Button Click="ButtonGetStats_OnClick"> Get Stats</Button>
+            <Button Click="ButtonCreateHpNodes_OnClick">Turn Blanks To HP Nodes</Button>
         </StackPanel>
     </GroupBox>
 </UserControl>
